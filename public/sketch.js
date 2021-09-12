@@ -2,15 +2,8 @@
 //BY GALO CANIZARES
 //by JESSE BASSETT
 
-
-lvar ArcStorage = [];
-var tempArcData = {
-  x: 0,
-  y: 0,
-  s: 0,
-  start: 0,
-  stop: 0
-}
+var egg = 2;
+var ArcStorage = [];
 var ClickCoordsX = [0,0,0]
 var ClickCoordsY = [0,0,0]
 var n = -1
